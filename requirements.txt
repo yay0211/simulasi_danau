@@ -19,6 +19,7 @@ plotly==5.9.0
 six==1.15.0
 tenacity==8.0.1
 Werkzeug==1.0.1
+ipywidgets==7.6.3
 
 # Required for deployment on Heroku
 gunicorn==20.1.0
